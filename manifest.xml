@@ -1,0 +1,17 @@
+<package>
+  <description brief="plotGpsOnSatelitteMap">
+
+     plotGpsOnSatelitteMap
+
+  </description>
+  <author>Clément Aubry</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/plotGpsOnSatelitteMap</url>
+  <depend package="sensor_msgs"/>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+
+</package>
+
+
