@@ -10,10 +10,11 @@ This node connect to ROS_MASTER_URI and wait /fix messages. Could run when readi
 
 ## Usage
 
-1. cd ~/catkin_ws
+1. cd ~/catkin_ws/src
 2. git clone https://github.com/ISENRobotics/plotGpsOnSatelitteMap.git
-3. catkin_make
-4. rosrun plotGpsOnSatelitteMap plotGpsDataOnMap.py
+3. cd ~/catkin_ws
+4. catkin_make
+5. rosrun plotGpsOnSatelitteMap plotGpsDataOnMap.py
 
 ## Creating a map
 
